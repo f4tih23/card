@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+.pay{
+    margin: 3rem;
+}
+#product{
+    width: 100%;
+    height: 25rem;
+    object-fit: contain;
+
+}
+.raiting{
+    color: orange;
+    margin-left: 1rem;
+}
+.iphone11{
+    text-align: center;
+    margin-left: 2rem;
+}
+.favicon{
+    position: relative;
+}
+.heart{
+    position: absolute;
+    margin-top:0;
+    margin-right: 0;
+}
+#paytobtn{
+    justify-content: end !important;
+}
+.nav > ul{list-style: none;
+   
+}
+#navitems{
+    font-size: large;
+}
